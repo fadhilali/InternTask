@@ -1,5 +1,5 @@
 # InternTask
-This is a very simple portal API connected to the database.
+This is a very simple portal API connected to the database. use the compressed file (fadhilsample.zip) 
 The used MySQL database called "register2" (register2.sql) which has two tables (users and new_record)
 The language used here is php and make a folder called css and put the style.css in that folder.
 However, after the all files download, try to import the database by using XAMPP server phpmyadmin.
